@@ -5,3 +5,4 @@ FWAC is the Ansible Community of Practice at the William J Hughes Technical Cent
 >We are in the early stages of defining our goals and mission. Our first meeting will be held September 13 2018. For information email [Scott Tully](mailto:scott.ctr.tully@faa.gov)
 
 * <http://s3.fwac.us/slides/meeting0.pptx>
+* <http://s3.fwac.us/slides/meeting00.pptx>
